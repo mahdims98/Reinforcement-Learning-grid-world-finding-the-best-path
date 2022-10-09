@@ -8,9 +8,12 @@ Finding the best path using RL methods such as:
 - Two-step Expected SARSA
 submited as homework of RL class-2020 (grid_world_env.py is used with permission)
 
-## Results
-  ### off policy
+## Obtained policy for each grid
+  ### off-policy Monte-Carlo
 ![off-policy](/images/off-policy.png "off-policy")
+
+  ### on-policy Monte-Carlo
+![on-policy](/images/on-policy.png "on-policy")
 
 ## Built With
 
