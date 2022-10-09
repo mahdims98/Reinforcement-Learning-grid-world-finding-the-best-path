@@ -6,6 +6,7 @@ Finding the best path using RL methods such as:
 - Tree Back-up
 - SARSA
 - Two-step Expected SARSA
+
 submited as homework of RL class-2020 (grid_world_env.py is used with permission)
 
 evaluator_mdp.py is used to generate all the figures automatically
