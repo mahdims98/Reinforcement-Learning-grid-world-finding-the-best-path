@@ -9,7 +9,8 @@ Finding the best path using RL methods such as:
 submited as homework of RL class-2020 (grid_world_env.py is used with permission)
 
 ## Results
-![grid-world](/added-noise.png "grid-world")
+  ### off policy
+![off-policy](/images/off-policy.png "off-policy")
 
 ## Built With
 
